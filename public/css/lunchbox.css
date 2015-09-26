@@ -1,0 +1,17 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,600italic,600,300italic,700);
+
+body{
+	font-family: open sans, sans-serif;
+	font-weight: 400;
+	background: #744F95;
+}
+
+.loginBox{
+	width: 400px;
+	margin: auto;
+	margin-top:15%;
+}
+
+hr{
+	border-top:1px solid lightgrey;
+}
